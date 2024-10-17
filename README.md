@@ -1,12 +1,10 @@
-# Hi 👋, I'm Rahma Setiani
+<h1 align="center">Hi 👋, I'm Rahma Setiani</h1>
+<h3 align="center">I have an interest in the fields of Expert Systems, Decision Support Systems, Data Mining, Machine Learning</h3>
 
-## Areas of Interest
-**Expert Systems, Decision Support Systems, Data Mining, Machine Learning**
-
-## Kontak Saya
+## Contact Me
 - Email: [rahmasetiani200@gmail.com](mailto:rahmasetiani200@gmail.com)
 
-## Bahasa dan Alat yang Dapat Saya Gunakan
+## Languages and Tools I Can Use
 
 <table>
   <tr>
@@ -78,4 +76,3 @@
     </td>
   </tr>
 </table>
-
