@@ -1,5 +1,8 @@
 # Hi 👋, I'm Rahma Setiani
 
+## Areas of Interest
+**Expert Systems, Decision Support Systems, Data Mining, Machine Learning**
+
 ## Kontak Saya
 - Email: [rahmasetiani200@gmail.com](mailto:rahmasetiani200@gmail.com)
 
