@@ -7,7 +7,7 @@
 ---
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/rahmasetiani/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/rahmasetiani/)])
 [![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-black?style=flat&logo=github)](https://github.com/rahmasetiani)
 
 ---
