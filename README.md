@@ -1,8 +1,8 @@
 # Hi 👋, I'm Rahma Setiani
 
-🌱I enjoy exploring the intersection of machine learning, expert systems, recommendation systems, and clustering algorithms to solve complex problems and create impactful solutions.
+## Kontak Saya
+- Email: [rahmasetiani200@gmail.com](mailto:rahmasetiani200@gmail.com)
 
-## Bahasa dan Alat yang Dapat Saya Gunakan
 ## Bahasa dan Alat yang Dapat Saya Gunakan
 
 <table>
