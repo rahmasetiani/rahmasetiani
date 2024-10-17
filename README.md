@@ -4,10 +4,11 @@
 
 🌱 I am a student at Telkom University Purwokerto, with a keen interest in Intelligent Systems and Web Development.
 
-
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/rahmasetiani/)])
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-black?style=flat&logo=github)](https://github.com/rahmasetiani)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmasetiani/)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-black?style=flat&logo=github&logoColor=white)](https://github.com/rahmasetiani)
+
 
 
 ## Technologies & Tools
