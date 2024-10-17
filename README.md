@@ -14,8 +14,9 @@
 
 | Frontend |           | Backend  |          |
 |----------|-----------|----------|----------|
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
+| <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" width="50"/> | <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" width="50"/> | <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" width="50"/> | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" width="50"/> |
+| <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" width="50"/> | <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" width="50"/> | <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" width="50"/> | <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" width="50"/> |
+
 
 
 ![Your Profile Picture](link-to-your-profile-picture)
