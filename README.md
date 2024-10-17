@@ -63,20 +63,8 @@
       <br />Postman
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-      <br />AWS
-    </td>
-    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br />MySQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      <br />TensorFlow
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br />Linux
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
