@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahma Setiani</h1>
-<h3 align="center">I have an interest in the fields of Expert Systems, Decision Support Systems, Data Mining, Machine Learning</h3>
+<h3 align="center">I have a strong interest in Artificial Intelligence (AI), particularly in Expert Systems, Decision Support Systems, Data Mining, and Machine Learning.</h3>
 
 ## Contact Me
 - Email: [rahmasetiani200@gmail.com](mailto:rahmasetiani200@gmail.com)
